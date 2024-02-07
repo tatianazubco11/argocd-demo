@@ -10,7 +10,6 @@ service:
   port: 5000
 
 
-
 ingress:
   enabled: true
   className: "nginx"
